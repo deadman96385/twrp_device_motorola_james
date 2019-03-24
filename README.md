@@ -1,9 +1,9 @@
 Copyright (C) 2019 The LineageOS Project
 
-Device configuration for Moto E5+ (Hannah)
+Device configuration for Moto E5 Play (james)
 =========================================
 
-The Motorola Moto E5+ (codenamed _"hannah"_) is a low-mid range smartphone from Motorola mobility.
+The Motorola Moto E5 Play (codenamed _"james"_) is a low-mid range smartphone from Motorola mobility.
 
 It was announced in May 2018. Release date was July 2018.
 
@@ -11,16 +11,16 @@ It was announced in May 2018. Release date was July 2018.
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-SoC     | Qualcomm MSM8937 Snapdragon 430
-CPU     | Octa-core (4x1.4 GHz Cortex-A53 & 4x 1.1 GHz Cortex-A53)
-GPU     | Adreno 505
-Memory  | 3 GB RAM
+SoC     | Qualcomm MSM8920 Snapdragon 427
+CPU     | Quad-core (4x1.4 GHz Cortex-A53)
+GPU     | Adreno 308
+Memory  | 2 GB RAM
 Shipped Android Version | 8.0
-Storage | 32 GB
-Battery | Non-removable Li-Ion 5000mAh battery
-Display | 720 x 1440 pixels, 18:9 ratio, 6.0 inches, IPS LCD (~268 ppi density)
-Camera  | 12 MP, phase detection autofocus, LED flash
+Storage | 16 GB
+Battery | Removable Li-Ion 2800mAh battery
+Display | 1280 x 720 pixels, 16:9 ratio 5.2 inches, IPS LCD (~282 ppi density)
+Camera  | 8 MP, LED flash
 
 ## Device picture
 
-![Motorola Moto E5+](https://www.tmonews.com/wp-content/uploads/2018/07/motoe5plustmobile-660x532.jpg "Moto E5+ in blue")
+![Motorola Moto E5 Play](https://novomundo.vteximg.com.br/arquivos/ids/1285374-1000-1000/smartphone-motorola-e5-play-dual-chip-quad-core-16gb-preto-xt192019-smartphone-motorola-e5-play-dual-chip-quad-core-16gb-preto-xt192019-56927-0.jpg "Moto E5 Play")
